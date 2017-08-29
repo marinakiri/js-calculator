@@ -14,9 +14,12 @@ function myMax(array) {
 console.log(myMax([1, 5, 12, 3, 7, 0]));
 
 
-
-function vowel_count() {
+function vowel_count(array) {
 //prend un string et retourne le nombre de voyelles
+	var vowels = 0;
+	for (var i = 0; i < array.length; i++) {
+		/////if (i=)
+	}
 }
 
 function reverse() {
